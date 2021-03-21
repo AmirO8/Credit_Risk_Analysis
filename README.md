@@ -37,3 +37,4 @@ To evalute and train models with unbalanced classes to asses credit card risk.
 
 # Summary
 
+The Easy Ensemble AdaBoost Classifier is the model that produces the best results. With the Precision and Recall being so high this would be the recommended model . Undersampling and SMOTEENN produced the worst results. 
