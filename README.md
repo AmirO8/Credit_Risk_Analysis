@@ -20,5 +20,9 @@ To evalute and train models with unbalanced classes to asses credit card risk.
 - Recall is .46
 
 ## SMOTEENN
+![SMOTEENN](https://github.com/AmirO8/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN.png)
+- Precision for High Risk is .53
+- Recall is .45
 
+## 
 
